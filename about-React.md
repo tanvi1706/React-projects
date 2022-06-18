@@ -5,4 +5,9 @@ use: 1. plug it into existing website
 => Templating synstax : JSX
 *Environment* : VSCode (Live Server, ES7 react, Matrial Icons), nodeJS.
 *React Basics:*
-- [x] div#hello : this is the tag followed by the name of ID
+- [x] div#hello : this is the tag followed by the name of ID.
+- [x] JSX javascript XML
+*Create REACT APP*
+- [x] npx create-react-app my-app
+      cd my-app
+      npm start
