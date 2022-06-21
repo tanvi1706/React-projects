@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-.recipe ul {
+.recipe ul, .cook {
     display: flex;
     padding: 0;
     justify-content: center;
